@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mini Lotto</string>
+    <string name="generateNumber">Losuj</string>
+</resources>
