@@ -1,2 +1,2 @@
 # MiniLotto
-![Screenshot](https://raw.githubusercontent.com/webmagicalpl/MiniLotto/master/Screenshot.png?raw=true "MiniLotto")
+![Screenshot](https://raw.githubusercontent.com/webmagicalpl/MiniLotto/master/Screenshot.png?raw=true "MiniLotto" width=640)
