@@ -1,2 +1,2 @@
 # MiniLotto
-![Screenshot](/screenshot.png?raw=true "MiniLotto")
+![Screenshot](https://raw.githubusercontent.com/webmagicalpl/MiniLotto/master/Screenshot.png?raw=true "MiniLotto")
